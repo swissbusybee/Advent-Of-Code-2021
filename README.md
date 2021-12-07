@@ -17,3 +17,6 @@ https://adventofcode.com/2021/day/5
 
 --- Day 6: Lanternfish ---
 https://adventofcode.com/2021/day/6
+
+--- Day 7: The Treachery of Whales ---
+https://adventofcode.com/2021/day/7
