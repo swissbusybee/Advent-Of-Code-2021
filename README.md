@@ -23,3 +23,6 @@ https://adventofcode.com/2021/day/7
 
 --- Day 8: Seven Segment Search ---
 https://adventofcode.com/2021/day/8
+
+--- Day 9: Smoke Basin ---
+https://adventofcode.com/2021/day/9#part2
