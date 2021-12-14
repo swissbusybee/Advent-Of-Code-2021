@@ -25,4 +25,16 @@ https://adventofcode.com/2021/day/7
 https://adventofcode.com/2021/day/8
 
 --- Day 9: Smoke Basin ---
-https://adventofcode.com/2021/day/9#part2
+https://adventofcode.com/2021/day/9
+
+--- Day 10: Syntax Scoring ---
+https://adventofcode.com/2021/day/10
+
+--- Day 11: Dumbo Octopus ---
+https://adventofcode.com/2021/day/11
+
+--- Day 12: Passage Pathing ---
+https://adventofcode.com/2021/day/12
+
+--- Day 13: Transparent Origami ---
+https://adventofcode.com/2021/day/13
